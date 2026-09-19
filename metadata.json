@@ -1,0 +1,6 @@
+{
+  "name": "Study Room",
+  "description": "A calm daily study portal for chapter lessons, exam prep, prayer tracking, and daily affairs digest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
